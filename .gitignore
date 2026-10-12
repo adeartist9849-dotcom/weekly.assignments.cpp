@@ -1,0 +1,13 @@
+# Compiled binaries
+*.exe
+*.obj
+*.o
+*.out
+
+# Build output folders
+output/
+
+# Editor/OS noise
+*.code-workspace
+.DS_Store
+Thumbs.db
